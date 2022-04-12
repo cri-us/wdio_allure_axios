@@ -1,0 +1,86 @@
+{
+  "uid" : "b66cc79cdcb1cf40",
+  "name" : "Should demonstrate the getAttribute command",
+  "fullName" : "webdriver.io page.Should demonstrate the getAttribute command",
+  "historyId" : "ffbd36d8edd91c1ced95b1fb6a1d87ad",
+  "time" : {
+    "start" : 1649804188843,
+    "stop" : 1649804189301,
+    "duration" : 458
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should demonstrate the getAttribute command"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-99.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e064f408b3fcf179",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803888282,
+        "stop" : 1649803888952,
+        "duration" : 670
+      }
+    }, {
+      "uid" : "cf8f290579f88eed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803690291,
+        "stop" : 1649803690956,
+        "duration" : 665
+      }
+    }, {
+      "uid" : "faf8d8a8553a6e10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649628435685,
+        "stop" : 1649628436340,
+        "duration" : 655
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b66cc79cdcb1cf40.json",
+  "parameterValues" : [ "firefox-99.0" ]
+}

@@ -1,0 +1,86 @@
+{
+  "uid" : "55b31aac84882af5",
+  "name" : "should have the right title",
+  "fullName" : "webdriver.io page.should have the right title",
+  "historyId" : "e9f5fac07953e2d4d4184f545f7768c9",
+  "time" : {
+    "start" : 1649804170891,
+    "stop" : 1649804170895,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have the right title"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-99.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8122adc9575d00c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803870171,
+        "stop" : 1649803870176,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "649462ef729d9bfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803671195,
+        "stop" : 1649803671200,
+        "duration" : 5
+      }
+    }, {
+      "uid" : "6f0662d9a51707fb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649628417247,
+        "stop" : 1649628417251,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "55b31aac84882af5.json",
+  "parameterValues" : [ "firefox-99.0" ]
+}

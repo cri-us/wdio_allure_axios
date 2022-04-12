@@ -1,0 +1,86 @@
+{
+  "uid" : "433ce1a31a3cde4f",
+  "name" : "Should demenstrate setValue command",
+  "fullName" : "webdriver.io page.Should demenstrate setValue command",
+  "historyId" : "5f4ea12359cec19353116fd9cd2eaede",
+  "time" : {
+    "start" : 1649804180993,
+    "stop" : 1649804181677,
+    "duration" : 684
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should demenstrate setValue command"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-99.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "986e799a1383a512",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803880391,
+        "stop" : 1649803881087,
+        "duration" : 696
+      }
+    }, {
+      "uid" : "e774f6df38a8bac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803682210,
+        "stop" : 1649803682903,
+        "duration" : 693
+      }
+    }, {
+      "uid" : "c8073f789aab315c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649628427501,
+        "stop" : 1649628428134,
+        "duration" : 633
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "433ce1a31a3cde4f.json",
+  "parameterValues" : [ "firefox-99.0" ]
+}

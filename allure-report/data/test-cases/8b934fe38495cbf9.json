@@ -1,0 +1,196 @@
+{
+  "uid" : "8b934fe38495cbf9",
+  "name" : "Should demonstrate the getAttribute command",
+  "fullName" : "webdriver.io page.Should demonstrate the getAttribute command",
+  "historyId" : "2bdab4b2f8b827549a958f01ae1c47eb",
+  "time" : {
+    "start" : 1649371680259,
+    "stop" : 1649371680857,
+    "duration" : 598
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1649371680260,
+        "stop" : 1649371680811,
+        "duration" : 551
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ec5a92bb5e80e8ef",
+        "name" : "Request",
+        "source" : "ec5a92bb5e80e8ef.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1649371680811,
+        "stop" : 1649371680820,
+        "duration" : 9
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "67adf0467b26fa91",
+        "name" : "Request",
+        "source" : "67adf0467b26fa91.json",
+        "type" : "application/json",
+        "size" : 63
+      }, {
+        "uid" : "430d6951cb87d6af",
+        "name" : "Response",
+        "source" : "430d6951cb87d6af.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/51a54a51-779d-432e-ad47-8436488dbde7/attribute/title",
+      "time" : {
+        "start" : 1649371680823,
+        "stop" : 1649371680830,
+        "duration" : 7
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "36e04b168094e108",
+        "name" : "Response",
+        "source" : "36e04b168094e108.json",
+        "type" : "application/json",
+        "size" : 8
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/51a54a51-779d-432e-ad47-8436488dbde7/clear",
+      "time" : {
+        "start" : 1649371680830,
+        "stop" : 1649371680835,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/51a54a51-779d-432e-ad47-8436488dbde7/value",
+      "time" : {
+        "start" : 1649371680835,
+        "stop" : 1649371680853,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "465a32335be63382",
+        "name" : "Request",
+        "source" : "465a32335be63382.json",
+        "type" : "application/json",
+        "size" : 23
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/51a54a51-779d-432e-ad47-8436488dbde7/property/value",
+      "time" : {
+        "start" : 1649371680853,
+        "stop" : 1649371680857,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d7c64ef2175d7fe1",
+        "name" : "Response",
+        "source" : "d7c64ef2175d7fe1.json",
+        "type" : "application/json",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should demonstrate the getAttribute command"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-98.0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b934fe38495cbf9.json",
+  "parameterValues" : [ "firefox-98.0.2" ]
+}

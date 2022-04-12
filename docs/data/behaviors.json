@@ -1,0 +1,175 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should have the right title",
+    "uid" : "c8b36a853fee903a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649375531545,
+      "stop" : 1649375531556,
+      "duration" : 11
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-98.0.2" ]
+  }, {
+    "name" : "should demonstrate the addValue command",
+    "uid" : "b3e1260c5f16f922",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649375531557,
+      "stop" : 1649375541613,
+      "duration" : 10056
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-98.0.2" ]
+  }, {
+    "name" : "Should demenstrate setValue command",
+    "uid" : "3eafcd82f236f169",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649375541613,
+      "stop" : 1649375542241,
+      "duration" : 628
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-98.0.2" ]
+  }, {
+    "name" : "Should demonstrate the click command",
+    "uid" : "904ff801deeaaee8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649375542241,
+      "stop" : 1649375549329,
+      "duration" : 7088
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-98.0.2" ]
+  }, {
+    "name" : "Should demonstrate the getAttribute command",
+    "uid" : "202e4c77eb18a13a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649375549329,
+      "stop" : 1649375549929,
+      "duration" : 600
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 8,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-98.0.2" ]
+  }, {
+    "name" : "should have the right title",
+    "uid" : "714f593c07e4746c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649628417247,
+      "stop" : 1649628417251,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-99.0" ]
+  }, {
+    "name" : "should demonstrate the addValue command",
+    "uid" : "3c6a72cf10b7ddec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649628417252,
+      "stop" : 1649628427501,
+      "duration" : 10249
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-99.0" ]
+  }, {
+    "name" : "Should demenstrate setValue command",
+    "uid" : "769803314114ca77",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649628427501,
+      "stop" : 1649628428134,
+      "duration" : 633
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-99.0" ]
+  }, {
+    "name" : "Should demonstrate the click command",
+    "uid" : "6cb96a665e45af50",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649628428134,
+      "stop" : 1649628435685,
+      "duration" : 7551
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-99.0" ]
+  }, {
+    "name" : "Should demonstrate the getAttribute command",
+    "uid" : "9f83a36cd0aa9726",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1649628435685,
+      "stop" : 1649628436340,
+      "duration" : 655
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "firefox-99.0" ]
+  } ]
+}

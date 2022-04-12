@@ -1,0 +1,181 @@
+{
+  "uid" : "e13b6a08abc14cc4",
+  "name" : "should demonstrate the addValue command",
+  "fullName" : "webdriver.io page.should demonstrate the addValue command",
+  "historyId" : "cf768bd34ba305a0e43cd69bd77da43a",
+  "time" : {
+    "start" : 1649371658213,
+    "stop" : 1649371671846,
+    "duration" : 13633
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1649371658213,
+        "stop" : 1649371658219,
+        "duration" : 6
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3f2478c4f95f595b",
+        "name" : "Request",
+        "source" : "3f2478c4f95f595b.json",
+        "type" : "application/json",
+        "size" : 39
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1649371664758,
+        "stop" : 1649371664776,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5ca93ed2e39a7eba",
+        "name" : "Request",
+        "source" : "5ca93ed2e39a7eba.json",
+        "type" : "application/json",
+        "size" : 63
+      }, {
+        "uid" : "b7ea767dfda890a2",
+        "name" : "Response",
+        "source" : "b7ea767dfda890a2.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/9da2883c-e1a8-4f58-a645-2fc23279df09/value",
+      "time" : {
+        "start" : 1649371664783,
+        "stop" : 1649371664809,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4beec770eb3d9d9d",
+        "name" : "Request",
+        "source" : "4beec770eb3d9d9d.json",
+        "type" : "application/json",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/9da2883c-e1a8-4f58-a645-2fc23279df09/value",
+      "time" : {
+        "start" : 1649371668811,
+        "stop" : 1649371668828,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b565dd24192a4b70",
+        "name" : "Request",
+        "source" : "b565dd24192a4b70.json",
+        "type" : "application/json",
+        "size" : 19
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/9da2883c-e1a8-4f58-a645-2fc23279df09/property/value",
+      "time" : {
+        "start" : 1649371671829,
+        "stop" : 1649371671845,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ac57f5f2e3031855",
+        "name" : "Response",
+        "source" : "ac57f5f2e3031855.json",
+        "type" : "application/json",
+        "size" : 9
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should demonstrate the addValue command"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-98.0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e13b6a08abc14cc4.json",
+  "parameterValues" : [ "firefox-98.0.2" ]
+}

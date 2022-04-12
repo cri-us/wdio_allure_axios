@@ -1,0 +1,60 @@
+{
+  "uid" : "1f4b3cd9655688ae",
+  "name" : "Should demonstrate the getAttribute command",
+  "fullName" : "webdriver.io page.Should demonstrate the getAttribute command",
+  "historyId" : "2bdab4b2f8b827549a958f01ae1c47eb",
+  "time" : {
+    "start" : 1649372670554,
+    "stop" : 1649372671214,
+    "duration" : 660
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should demonstrate the getAttribute command"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-98.0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1f4b3cd9655688ae.json",
+  "parameterValues" : [ "firefox-98.0.2" ]
+}

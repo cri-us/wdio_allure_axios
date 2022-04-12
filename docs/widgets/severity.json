@@ -1,0 +1,101 @@
+[ {
+  "uid" : "c8b36a853fee903a",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1649375531545,
+    "stop" : 1649375531556,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b3e1260c5f16f922",
+  "name" : "should demonstrate the addValue command",
+  "time" : {
+    "start" : 1649375531557,
+    "stop" : 1649375541613,
+    "duration" : 10056
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cb96a665e45af50",
+  "name" : "Should demonstrate the click command",
+  "time" : {
+    "start" : 1649628428134,
+    "stop" : 1649628435685,
+    "duration" : 7551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "202e4c77eb18a13a",
+  "name" : "Should demonstrate the getAttribute command",
+  "time" : {
+    "start" : 1649375549329,
+    "stop" : 1649375549929,
+    "duration" : 600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3eafcd82f236f169",
+  "name" : "Should demenstrate setValue command",
+  "time" : {
+    "start" : 1649375541613,
+    "stop" : 1649375542241,
+    "duration" : 628
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "714f593c07e4746c",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1649628417247,
+    "stop" : 1649628417251,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f83a36cd0aa9726",
+  "name" : "Should demonstrate the getAttribute command",
+  "time" : {
+    "start" : 1649628435685,
+    "stop" : 1649628436340,
+    "duration" : 655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "769803314114ca77",
+  "name" : "Should demenstrate setValue command",
+  "time" : {
+    "start" : 1649628427501,
+    "stop" : 1649628428134,
+    "duration" : 633
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "904ff801deeaaee8",
+  "name" : "Should demonstrate the click command",
+  "time" : {
+    "start" : 1649375542241,
+    "stop" : 1649375549329,
+    "duration" : 7088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c6a72cf10b7ddec",
+  "name" : "should demonstrate the addValue command",
+  "time" : {
+    "start" : 1649628417252,
+    "stop" : 1649628427501,
+    "duration" : 10249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

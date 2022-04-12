@@ -1,0 +1,86 @@
+{
+  "uid" : "d10f99ac0e7e59cb",
+  "name" : "should demonstrate the addValue command",
+  "fullName" : "webdriver.io page.should demonstrate the addValue command",
+  "historyId" : "a7f67b9b84aaed4ec855090cb0c5f60d",
+  "time" : {
+    "start" : 1649804170896,
+    "stop" : 1649804180992,
+    "duration" : 10096
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should demonstrate the addValue command"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-99.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c09076793bf9125e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803870180,
+        "stop" : 1649803880390,
+        "duration" : 10210
+      }
+    }, {
+      "uid" : "867b1cd8a39065be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649803671201,
+        "stop" : 1649803682209,
+        "duration" : 11008
+      }
+    }, {
+      "uid" : "8eae84654227ae48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649628417252,
+        "stop" : 1649628427501,
+        "duration" : 10249
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d10f99ac0e7e59cb.json",
+  "parameterValues" : [ "firefox-99.0" ]
+}

@@ -1,0 +1,101 @@
+[ {
+  "uid" : "baa80a2dae55c8c1",
+  "name" : "Should demenstrate setValue command",
+  "time" : {
+    "start" : 1649375541613,
+    "stop" : 1649375542241,
+    "duration" : 628
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d10f99ac0e7e59cb",
+  "name" : "should demonstrate the addValue command",
+  "time" : {
+    "start" : 1649804170896,
+    "stop" : 1649804180992,
+    "duration" : 10096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e849f3a8c275392f",
+  "name" : "Should demonstrate the getAttribute command",
+  "time" : {
+    "start" : 1649375549329,
+    "stop" : 1649375549929,
+    "duration" : 600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55b31aac84882af5",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1649804170891,
+    "stop" : 1649804170895,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "400bf160a3b1646e",
+  "name" : "Should demonstrate the click command",
+  "time" : {
+    "start" : 1649804181677,
+    "stop" : 1649804188843,
+    "duration" : 7166
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "289933fdae2a8242",
+  "name" : "Should demonstrate the click command",
+  "time" : {
+    "start" : 1649375542241,
+    "stop" : 1649375549329,
+    "duration" : 7088
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "433ce1a31a3cde4f",
+  "name" : "Should demenstrate setValue command",
+  "time" : {
+    "start" : 1649804180993,
+    "stop" : 1649804181677,
+    "duration" : 684
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cef4be1d6ef3469b",
+  "name" : "should have the right title",
+  "time" : {
+    "start" : 1649375531545,
+    "stop" : 1649375531556,
+    "duration" : 11
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d6e5a6705d9b6cf",
+  "name" : "should demonstrate the addValue command",
+  "time" : {
+    "start" : 1649375531557,
+    "stop" : 1649375541613,
+    "duration" : 10056
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b66cc79cdcb1cf40",
+  "name" : "Should demonstrate the getAttribute command",
+  "time" : {
+    "start" : 1649804188843,
+    "stop" : 1649804189301,
+    "duration" : 458
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

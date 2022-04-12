@@ -1,0 +1,126 @@
+{
+  "uid" : "baa80a2dae55c8c1",
+  "name" : "Should demenstrate setValue command",
+  "fullName" : "webdriver.io page.Should demenstrate setValue command",
+  "historyId" : "e13d180e89e72e6cadd5ecb0bcaeff7f",
+  "time" : {
+    "start" : 1649375541613,
+    "stop" : 1649375542241,
+    "duration" : 628
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testClass",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should demenstrate setValue command"
+  }, {
+    "name" : "package",
+    "value" : "webdriver.io page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-98.0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5245edd3d8c04073",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649375449905,
+        "stop" : 1649375450583,
+        "duration" : 678
+      }
+    }, {
+      "uid" : "6670e24949791b4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649375034751,
+        "stop" : 1649375035423,
+        "duration" : 672
+      }
+    }, {
+      "uid" : "cc7126a40b4d635",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649374614441,
+        "stop" : 1649374615152,
+        "duration" : 711
+      }
+    }, {
+      "uid" : "6db1067a8fbd4441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649373738930,
+        "stop" : 1649373739591,
+        "duration" : 661
+      }
+    }, {
+      "uid" : "410bea6e16ae0707",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649373108606,
+        "stop" : 1649373109388,
+        "duration" : 782
+      }
+    }, {
+      "uid" : "d946e44112b01253",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649372662681,
+        "stop" : 1649372663408,
+        "duration" : 727
+      }
+    }, {
+      "uid" : "4f83edae173545ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649371836738,
+        "stop" : 1649371837444,
+        "duration" : 706
+      }
+    }, {
+      "uid" : "b61e8bdd494d8d9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649371671847,
+        "stop" : 1649371673042,
+        "duration" : 1195
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "baa80a2dae55c8c1.json",
+  "parameterValues" : [ "firefox-98.0.2" ]
+}
