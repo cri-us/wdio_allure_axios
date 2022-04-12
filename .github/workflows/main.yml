@@ -2,7 +2,7 @@
 on:
   push:
     branches:
-      - 'gh-paged' # Set branch of the GH repo to push
+      - 'main' # Set branch of the GH repo to push
 jobs:
   test_suite: # Name of the job
       runs-on: ubuntu-20.04 # Choosing OS
