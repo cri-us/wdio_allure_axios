@@ -2,7 +2,7 @@
 on:
   push:
     branches:
-      - 'main' # Set branch of the GH repo to push
+      - 'gh-paged' # Set branch of the GH repo to push
 jobs:
   test_suite: # Name of the job
       runs-on: ubuntu-20.04 # Choosing OS
@@ -48,6 +48,6 @@ jobs:
         with:
           source-directory: 'docs'
           destination-github-username: 'cri-us' # Your username
-          destination-repository-name: 'reponame' # Name of your repo
+          destination-repository-name: 'gh-paged' # Name of your repo
           user-email: albazaliunsal@gmail.com # Your email
-          target-branch: main 
+          target-branch: gh-paged 
